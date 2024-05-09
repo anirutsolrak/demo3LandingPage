@@ -67,7 +67,6 @@ header {
 .hero-image {
     max-width: 80%;
     margin: 0 auto;
-    overflow: hidden;
 }
 
 .hero-image img {
