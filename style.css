@@ -11,6 +11,7 @@ body {
 
 h1, h2, h3 {
     font-weight: 700;
+    text-align: center;
 }
 
 a {
@@ -131,7 +132,7 @@ header {
 .social-proof-section {
     background-color: #f7f7f7;
     padding: 2.5% 0; /* 2.5% of viewport width for top and bottom padding */
-    text-align: center;
+    
 }
 
 .testimonial-slider {
@@ -155,6 +156,7 @@ header {
 .testimonial img {
     width: 40%;
     height: auto;
+    align-self: center;
     margin-right: 0.625em; /* 0.625 times the base font size for margin */
 }
 
