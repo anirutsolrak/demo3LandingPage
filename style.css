@@ -135,7 +135,8 @@ header {
 
 .testimonial-slider {
     display: flex;
-   
+    overflow-x: auto;
+    padding: 0.625em; /* 0.625 times the base font size for padding */
 }
 
 .testimonial {
